@@ -1,7 +1,7 @@
 # Pymaceuticals Inc. - Module 5 Challenge
 ---
 ## Goal of this Study
-Squamous cell carcinoma (SCC) is a common form of skin cancer.  The pharmaceutical company Pymaceuticals have developed a new SCC treatment called Capomulin.  
+Squamous cell carcinoma (SCC) is a common form of skin cancer.  The pharmaceutical company Pymaceuticals Inc. have developed a new SCC treatment called Capomulin.  
 This analysis attempts to assess the performance Capomulin against other SCC drug regimens for treatment of squamous cell carcinoma (SCC) in mice.
 
 ### Location of Files
@@ -13,7 +13,7 @@ The analysis contains:
 
 1. Analysis Summary
 2. Merged Dataframe of mouse and study data
-3. Summary statistics of tumour volume
+3. Summary statistics of tumour volume across drug regimens
 4. Bar chart comparing the number of data timepoints collected by drug regimen
 5. Pie chart comparing 'sex' distribution of study mice
 6. Quatitative analysis of potential outliers in Capomulin, Ramicane, Infubinol, and Ceftamin treatment groups
